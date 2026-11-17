@@ -6,6 +6,9 @@ public class LinearSearch02_Search_String_char {
 	
 	public static void main(String[] args) {
 		
+		
+		// Searching the Element in the String Using a Linear Search Algorithm
+		
 		String name = "mangesh";
 		
 		char arr[] = name.toCharArray();
